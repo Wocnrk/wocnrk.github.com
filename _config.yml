@@ -50,9 +50,9 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: huxblog
+# duoshuo_username: huxblog
 # Share component is depend on Comment so we can NOT use share only.
-duoshuo_share: true                     # set to false if you want to use Comment without Sharing
+# duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
 
 
@@ -62,7 +62,7 @@ duoshuo_share: true                     # set to false if you want to use Commen
 # ba_track_id: FUCKBAIDU
 # Google Analytics
 # ga_track_id: '00-0000000-0'            # Format: UA-xxxxxx-xx
-ga_domain: testtest.com  
+# ga_domain: testtest.com  
 
 
 
