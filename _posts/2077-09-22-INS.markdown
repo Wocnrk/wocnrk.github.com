@@ -14,9 +14,6 @@ tags:
 # 你关注的网红博主可能只是一位机器人
 
 转载来自 [https://mp.weixin.qq.com/s/wvWstpo-C7352jXeCeRvIg](https://mp.weixin.qq.com/s/wvWstpo-C7352jXeCeRvIg)
-![](https://mmbiz.qpic.cn/mmbiz_gif/dyDu14T9ZVA9m9z3bSyhiaYcppicsCveZz2P7m01BpMvxY5Nr0UxdPdndaq1uEBy5OwLLJgBk2MMeWbk80IxZTgA/640?tp=webp&wxfrom=5&wx_lazy=1)
-
-![](https://mmbiz.qpic.cn/mmbiz_jpg/dyDu14T9ZVAj9RgjjneI4ljhP9LcBvT4s2mOB0ziaQrpiavKibLM3cicNLVkW2f3J6uASpb8741kD3Uy6rTjsu9Aaw/640?tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 Chris Buetti 是一位坐标纽约的数据科学家，他虽然没钱顿顿下馆子，但实在不想放弃围绕在身边的美食，想到了一个吃免费午餐的法子——做 Instgram「网红」。
 
@@ -28,7 +25,7 @@ Chris Buetti 是一位坐标纽约的数据科学家，他虽然没钱顿顿下�
 
 乍一听，这似乎又是一个「机器人要抢网红饭碗」的耸人听闻案例，但仔细了解背后机制后，你会发现事实并非如此。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/dyDu14T9ZVAyKt4evImoiakT4bbxZ5YrL1BVMeRYgibMJ4QHibbdeDRpo8hNHZXUGGD1m4chUFm7RXjq7WXu8OADA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+<img src="img/INS/1.jpg"/> 
 
 「网红」分两种，这是后一种
 
