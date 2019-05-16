@@ -25,7 +25,7 @@ Chris Buetti 是一位坐标纽约的数据科学家，他虽然没钱顿顿下�
 
 乍一听，这似乎又是一个「机器人要抢网红饭碗」的耸人听闻案例，但仔细了解背后机制后，你会发现事实并非如此。
 
-![alt 五五开](/img/INS/2.jpg "可选标题")
+![alt 五五开](/img/INS/1.jpg "可选标题")
 <img src="img/1.jpg" alt="[图片没显示出来]" width="720" height="420"/> 
 
 「网红」分两种，这是后一种
@@ -34,7 +34,7 @@ Chris Buetti 是一位坐标纽约的数据科学家，他虽然没钱顿顿下�
 
 一种是明星以及具备极具辨析度个人风格的博主，他们本人就是品牌的最重要标识。被《福布斯》评为史上最年轻的「白手起家」十亿美元富豪的 Kylie Jenner 就是极致代表。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/dyDu14T9ZVCPOaQUUmYXJ4yZWO90G9KdibkaFLQ1pUFXg0qfLPwlsYFwicpYuCjgRWfDjic2spkuVkKzwEUic9icdtg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![alt 五五开](/img/INS/1.jpg "可选标题")
 
 拥有 1.75 亿社交媒体粉丝的她在接受采访时说：「（成功）这是社交媒体的力量。在我可以开始做任何事情前，我就拥有了如此强大的触及力。」她的美妆帝国最值钱的，也许是产品上印着的她的名字。
 
@@ -42,7 +42,7 @@ Chris Buetti 是一位坐标纽约的数据科学家，他虽然没钱顿顿下�
 
 因为目标是在纽约吃「霸王餐」，Buetti 将账号 @beautiful.newyorkcity 的内容定为分享优质的纽约建筑、经典地标等图片，这样一来，粉丝积累了，要去找纽约餐厅谈合作也比较合理。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/dyDu14T9ZVCPOaQUUmYXJ4yZWO90G9KdwxDlT6icwfrMKtKHibH3dD5iaqRp6FayDUoqhnlJmoDTp6oqEsJJxF5tw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![alt 五五开](/img/INS/2.jpg "可选标题")
 
 ▲ Buetti 这个账户现在已经给朋友运营了
 
@@ -58,7 +58,7 @@ Chris Buetti 是一位坐标纽约的数据科学家，他虽然没钱顿顿下�
 
 就这样，Buetti 创造了一个内容产出质量和数量都非常稳定的 Ins 账号。而且，这个账号总会标明图片来源，所以当一些摄影师发现自己的作品被转载后，不仅不反感，甚至还会过去评论区道个谢。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/dyDu14T9ZVCPOaQUUmYXJ4yZWO90G9KdPzpmqwJiaNN4wOWgNibl5S5ic68IfqyZYILKTVtQLqgm6tITpcpAW2Yrw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![alt 五五开](/img/INS/3.jpg "可选标题")
 
 ▲ 被 @ 的摄影师在留言致谢
 
@@ -74,7 +74,7 @@ Buetti 意识到这个问题，并为算法关注了的粉丝分了三个级别�
 
 当 @beautiful.newyorkcity 粉丝超过两万时，Buetti 就开始用 API 给带有「曼哈顿」的餐厅 Ins 账号发送一封模板邮件，问他们是否感兴趣合作，以一段免费的餐饮或特定折扣，换取在 @beautiful.newyorkcity 上发照片和文字宣传。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/dyDu14T9ZVCPOaQUUmYXJ4yZWO90G9Kd8gA46dZUFv4cRP75d5cnxIUFDpA5h0lWexJznfvY2OPAxoUsSylb9g/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![alt 五五开](/img/INS/4.jpg "可选标题")
 
 ▲ 标注着「赞助」的餐饮推文
 
@@ -82,17 +82,17 @@ Buetti 意识到这个问题，并为算法关注了的粉丝分了三个级别�
 
 后来，BuzzFeed 联系了其中一家曾给 Buetti 提供免费晚餐的餐厅，告知他们这个账号其实就是自动化运营的。店主并未因此感到生气或惊讶，只是淡淡说一句：「我觉得我们还是挺满意的，因为那仍然还是个广告，将我们展示给账号的粉丝。」
 
-![](https://mmbiz.qpic.cn/mmbiz_png/dyDu14T9ZVAyKt4evImoiakT4bbxZ5YrL1BVMeRYgibMJ4QHibbdeDRpo8hNHZXUGGD1m4chUFm7RXjq7WXu8OADA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
 
 无论背后是人或机器，我们只是想要对的信息
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/dyDu14T9ZVCPOaQUUmYXJ4yZWO90G9Kdyib14CAibV434UBblyCc7KRtH7aH7mc3hwrj2YBEBiauX3ObI3iaXDE5rw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![alt 五五开](/img/INS/5.jpg "可选标题")
 
 ▲ 图片来自 ABC
 
 和创造独特内容的「个人」型网红相比，Buetti 的账号解决的其实是信息整合和用户配对问题。当我们从信息分发这个角度来看，背后在运营的是人还是算法，似乎真的没人在乎。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/dyDu14T9ZVCPOaQUUmYXJ4yZWO90G9KdUAmricVs0iaib7BOMzc8MicSdVCAb5VbuMibbUBp8cgW9FPvoahCtibsEa5g/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
 
 我是从 @F**kJerry 那受到启发的。他从来都不露脸，只是发从网络上找到的 meme，很多时候还是偷的。我就想，这家伙可能永远都不用手动管理他的账号。
 
